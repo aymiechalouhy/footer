@@ -1,0 +1,32 @@
+.footer{
+height: 16rem;
+    background-color: #354452;
+    padding: 2rem 0 0 8rem;
+}
+.all-col{
+    display: flex;
+    justify-content: space-around;
+}
+.c{
+    color:white;
+}
+.social-container{
+    /* background-color: #495762; */
+    padding-left: 4rem;
+}
+
+.social-container a.facebook {
+    color: white;
+  }
+  
+.social-container  a.twitter {
+    color: white;
+  }
+  
+.social-container  a.instagram {
+    color: white;
+  }
+
+  .social-container  a.linkedin {
+    color: white;
+  }
